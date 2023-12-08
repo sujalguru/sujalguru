@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujalguru
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Python
+- 👀 I’m in Tech
+- 🌱 I’m learning to be the Greatest!
 
 <!---
 sujalguru/sujalguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
